@@ -98,8 +98,8 @@ I published this code because it's not nice to keep it to myself. I fix problems
 This code is provided with the timeless **Works on my Machine** guarantee.  
 You can also check out the [pull requests page](https://github.com/AmrEldib/cmder-powerline-prompt/pulls) for contributions that didn't make back into this repo. These are fixes to problems I didn't encounter, or features not useful to me, but maybe useful to you.  
 Some of these contributions are:  
-- [Show active Python Virtual Environment](https://github.com/AmrEldib/cmder-powerline-prompt/issues/5)  
-- [Add Python's VENV support](https://github.com/AmrEldib/cmder-powerline-prompt/pull/21)  
+- [Python/Conda Virtual Environment support- copied from](https://github.com/thrzn41/cmder-powerline-python-venv)
+
 
 People are very kind and contribute back fixes and improvements.  
 This section is to acknowledge their contributions and thank them. If you find their contributions helpful to you, please take the time to thank them directly.
